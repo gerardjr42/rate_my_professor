@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "reviews": "Engaging and knowledgeable. Makes complex topics easy to understand.",
+      "stars": 5,
+      "subject": "Mathematics"
+    },
+    {
+      "professor": "Dr. Jane Doe",
+      "reviews": "Great lecturer, but the exams are quite challenging.",
+      "stars": 4,
+      "subject": "Physics"
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "reviews": "Good at explaining concepts, but lacks enthusiasm.",
+      "stars": 3,
+      "subject": "Chemistry"
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "reviews": "Passionate about the subject and very approachable.",
+      "stars": 5,
+      "subject": "Biology"
+    },
+    {
+      "professor": "Dr. Sarah Davis",
+      "reviews": "Interesting lectures, but sometimes disorganized.",
+      "stars": 4,
+      "subject": "History"
+    },
+    {
+      "professor": "Dr. David Wilson",
+      "reviews": "Difficult to follow and not very engaging.",
+      "stars": 2,
+      "subject": "Literature"
+    },
+    {
+      "professor": "Dr. Laura Martinez",
+      "reviews": "Incredibly insightful and encourages class participation.",
+      "stars": 5,
+      "subject": "Psychology"
+    },
+    {
+      "professor": "Dr. James Garcia",
+      "reviews": "Very knowledgeable, but the pace can be fast.",
+      "stars": 4,
+      "subject": "Computer Science"
+    },
+    {
+      "professor": "Dr. Patricia Rodriguez",
+      "reviews": "Good content, but lectures can be dry.",
+      "stars": 3,
+      "subject": "Economics"
+    },
+    {
+      "professor": "Dr. Robert Lee",
+      "reviews": "Thought-provoking discussions and very supportive.",
+      "stars": 5,
+      "subject": "Philosophy"
+    },
+    {
+      "professor": "Dr. Linda Walker",
+      "reviews": "Engaging and relevant material, but grading is strict.",
+      "stars": 4,
+      "subject": "Sociology"
+    },
+    {
+      "professor": "Dr. Charles Hall",
+      "reviews": "Decent teacher, but the course is quite challenging.",
+      "stars": 3,
+      "subject": "Statistics"
+    },
+    {
+      "professor": "Dr. Barbara Allen",
+      "reviews": "Inspiring and knowledgeable, makes the subject come alive.",
+      "stars": 5,
+      "subject": "Art History"
+    },
+    {
+      "professor": "Dr. Daniel Young",
+      "reviews": "Very engaging, but sometimes goes off-topic.",
+      "stars": 4,
+      "subject": "Political Science"
+    },
+    {
+      "professor": "Dr. Jessica Hernandez",
+      "reviews": "Good content, but lectures can be monotonous.",
+      "stars": 3,
+      "subject": "Environmental Science"
+    },
+    {
+      "professor": "Dr. Matthew King",
+      "reviews": "Excellent at explaining complex concepts with real-world examples.",
+      "stars": 5,
+      "subject": "Engineering"
+    },
+    {
+      "professor": "Dr. Nancy Wright",
+      "reviews": "Very passionate and knowledgeable about the subject.",
+      "stars": 4,
+      "subject": "Music"
+    },
+    {
+      "professor": "Dr. Anthony Scott",
+      "reviews": "Not very organized and lacks clarity in teaching.",
+      "stars": 2,
+      "subject": "Theater"
+    },
+    {
+      "professor": "Dr. Karen Green",
+      "reviews": "Best math professor I've ever had! Very supportive.",
+      "stars": 5,
+      "subject": "Mathematics"
+    },
+    {
+      "professor": "Dr. Steven Adams",
+      "reviews": "Great insights into the industry, but assignments can be tough.",
+      "stars": 4,
+      "subject": "Business"
+    }
+  ]
+}
